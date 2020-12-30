@@ -1,0 +1,14 @@
+com.wipro.springmvc.controller.CourseController=org.springframework.stereotype.Component
+com.wipro.springmvc.controller.InstructorController=org.springframework.stereotype.Component
+com.wipro.springmvc.controller.StudentController=org.springframework.stereotype.Component
+com.wipro.springmvc.dao.CourseDaoImpl=org.springframework.stereotype.Component
+com.wipro.springmvc.dao.InstructorDaoImpl=org.springframework.stereotype.Component
+com.wipro.springmvc.dao.StudentDaoImpl=org.springframework.stereotype.Component
+com.wipro.springmvc.entity.Course=javax.persistence.Entity,javax.persistence.Table
+com.wipro.springmvc.entity.Instructor=javax.persistence.Entity,javax.persistence.Table
+com.wipro.springmvc.entity.InstructorDetail=javax.persistence.Entity,javax.persistence.Table
+com.wipro.springmvc.entity.Review=javax.persistence.Entity,javax.persistence.Table
+com.wipro.springmvc.entity.Student=javax.persistence.Entity,javax.persistence.Table
+com.wipro.springmvc.service.CourseServiceImpl=org.springframework.stereotype.Component
+com.wipro.springmvc.service.InstructorServiceImpl=org.springframework.stereotype.Component
+com.wipro.springmvc.service.StudentServiceImpl=org.springframework.stereotype.Component
